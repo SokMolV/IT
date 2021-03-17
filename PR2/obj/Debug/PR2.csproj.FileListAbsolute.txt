@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SokMolV\IT\PR2\bin\Debug\PR2.exe.config
+C:\Users\User\source\repos\SokMolV\IT\PR2\bin\Debug\PR2.exe
+C:\Users\User\source\repos\SokMolV\IT\PR2\bin\Debug\PR2.pdb
+C:\Users\User\source\repos\SokMolV\IT\PR2\obj\Debug\PR2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SokMolV\IT\PR2\obj\Debug\PR2.Form1.resources
+C:\Users\User\source\repos\SokMolV\IT\PR2\obj\Debug\PR2.Properties.Resources.resources
+C:\Users\User\source\repos\SokMolV\IT\PR2\obj\Debug\PR2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SokMolV\IT\PR2\obj\Debug\PR2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SokMolV\IT\PR2\obj\Debug\PR2.exe
+C:\Users\User\source\repos\SokMolV\IT\PR2\obj\Debug\PR2.pdb
