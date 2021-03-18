@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SokMolV\IT\PR3\bin\Debug\PR3.exe.config
+C:\Users\User\source\repos\SokMolV\IT\PR3\bin\Debug\PR3.exe
+C:\Users\User\source\repos\SokMolV\IT\PR3\bin\Debug\PR3.pdb
+C:\Users\User\source\repos\SokMolV\IT\PR3\obj\Debug\PR3.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SokMolV\IT\PR3\obj\Debug\PR3.Form1.resources
+C:\Users\User\source\repos\SokMolV\IT\PR3\obj\Debug\PR3.Properties.Resources.resources
+C:\Users\User\source\repos\SokMolV\IT\PR3\obj\Debug\PR3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SokMolV\IT\PR3\obj\Debug\PR3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SokMolV\IT\PR3\obj\Debug\PR3.exe
+C:\Users\User\source\repos\SokMolV\IT\PR3\obj\Debug\PR3.pdb
