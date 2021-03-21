@@ -54,11 +54,8 @@ namespace PR4
 
                         }
                         ch = (i-1)/(2* factorial - 2);
-                        //ch = (i  / (2 * factorial - 2);
-                        //ch = (3 * factorial - 1) / (i + 1);
                         s += ch; 
                       i++; }
-                   // s = factorial;
                     textBox2.Text += "При eps = " + textBox1.Text + Environment.NewLine; 
                     textBox2.Text += "Расчет суммы ряда S = " + Convert.ToString(s) + Environment.NewLine;
                     break;
