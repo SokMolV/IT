@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 //выражение 16
-// не восполь
 namespace PR3
 {
     public partial class Form1 : Form
@@ -27,10 +26,8 @@ namespace PR3
             textBox4.Text += "При X = " + textBox1.Text + Environment.NewLine;
 
             double value = 1;
-            // Вычисление U
             double u=1;
             int n = 0;
-            // Определение номера выбранной функции.
             //checked - включено.
             if (checkBox1.Checked)
             {
@@ -38,7 +35,6 @@ namespace PR3
                 if (radioButton1.Checked) n = 0;
                 else if (radioButton2.Checked) n = 1;
                 else if (radioButton3.Checked) n = 2;
-                // Вычисление U
                 // double u;
                 switch (n)
                 {
@@ -74,7 +70,6 @@ namespace PR3
             {
                 u = 2 + Math.Abs(value);
             }
-           // textBox4.Text += "U = " + Convert.ToString(u) + Environment.NewLine;
             if( n!= 4)
             {
                 textBox4.Text += "U = " + Convert.ToString(u) + Environment.NewLine;
