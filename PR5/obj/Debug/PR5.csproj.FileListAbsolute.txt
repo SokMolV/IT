@@ -7,3 +7,4 @@ C:\Users\User\source\repos\SokMolV\IT\PR5\obj\Debug\PR5.csproj.GenerateResource.
 C:\Users\User\source\repos\SokMolV\IT\PR5\obj\Debug\PR5.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\SokMolV\IT\PR5\obj\Debug\PR5.exe
 C:\Users\User\source\repos\SokMolV\IT\PR5\obj\Debug\PR5.pdb
+C:\Users\User\Source\Repos\SokMolV\IT\PR5\obj\Debug\PR5.csprojAssemblyReference.cache
