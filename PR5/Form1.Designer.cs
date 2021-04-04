@@ -59,7 +59,8 @@
             this.listBox1.Items.AddRange(new object[] {
             "Привет, меня зовут мария!",
             "Я рада вас видеть здесь.",
-            "Как ваши дела?"});
+            "Как ваши дела?",
+            "Чем сегодня хотели бы заняться?"});
             this.listBox1.Location = new System.Drawing.Point(26, 24);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(415, 244);
