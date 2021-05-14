@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\bin\Debug\PR8.9.2.exe.config
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\bin\Debug\PR8.9.2.exe
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\bin\Debug\PR8.9.2.pdb
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\obj\Debug\PR8.9.2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\obj\Debug\PR8._9._2.Form1.resources
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\obj\Debug\PR8._9._2.Properties.Resources.resources
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\obj\Debug\PR8.9.2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\obj\Debug\PR8.9.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\obj\Debug\PR8.9.2.exe
+C:\Users\User\source\repos\SokMolV\IT\PR8.9.2\obj\Debug\PR8.9.2.pdb
