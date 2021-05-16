@@ -1,0 +1,10 @@
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\bin\Debug\PR11.exe.config
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\bin\Debug\PR11.exe
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\bin\Debug\PR11.pdb
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\obj\Debug\PR11.Form1.resources
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\obj\Debug\PR11.Properties.Resources.resources
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\obj\Debug\PR11.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\obj\Debug\PR11.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\obj\Debug\PR11.exe
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\obj\Debug\PR11.pdb
+C:\Users\User\Source\Repos\SokMolV\IT\PR11\obj\Debug\PR11.csprojAssemblyReference.cache
