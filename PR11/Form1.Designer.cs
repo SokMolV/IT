@@ -30,7 +30,7 @@
         {
             this.Open = new System.Windows.Forms.Button();
             this.Save = new System.Windows.Forms.Button();
-            this.BandW = new System.Windows.Forms.Button();
+            this.Negativ = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -57,15 +57,15 @@
             this.Save.UseVisualStyleBackColor = true;
             this.Save.Click += new System.EventHandler(this.Save_Click);
             // 
-            // BandW
+            // Negativ
             // 
-            this.BandW.Location = new System.Drawing.Point(100, 79);
-            this.BandW.Name = "BandW";
-            this.BandW.Size = new System.Drawing.Size(117, 37);
-            this.BandW.TabIndex = 2;
-            this.BandW.Text = "Изменить";
-            this.BandW.UseVisualStyleBackColor = true;
-            this.BandW.Click += new System.EventHandler(this.BandW_Click);
+            this.Negativ.Location = new System.Drawing.Point(100, 79);
+            this.Negativ.Name = "Negativ";
+            this.Negativ.Size = new System.Drawing.Size(117, 37);
+            this.Negativ.TabIndex = 2;
+            this.Negativ.Text = "Изменить";
+            this.Negativ.UseVisualStyleBackColor = true;
+            this.Negativ.Click += new System.EventHandler(this.Negativ_Click);
             // 
             // pictureBox1
             // 
@@ -94,7 +94,7 @@
             this.ClientSize = new System.Drawing.Size(1148, 598);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.BandW);
+            this.Controls.Add(this.Negativ);
             this.Controls.Add(this.Save);
             this.Controls.Add(this.Open);
             this.Name = "Form1";
@@ -109,7 +109,7 @@
 
         private System.Windows.Forms.Button Open;
         private System.Windows.Forms.Button Save;
-        private System.Windows.Forms.Button BandW;
+        private System.Windows.Forms.Button Negativ;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox pictureBox2;
     }

@@ -70,7 +70,7 @@ namespace PR11
 
         }
 
-        private void BandW_Click(object sender, EventArgs e)
+        private void Negativ_Click(object sender, EventArgs e)
         {
             if (pictureBox1.Image != null) // если изображение в pictureBox1 имеется
             {
@@ -88,8 +88,7 @@ namespace PR11
                         float R = (float)((pixel & 0x00FF0000) >> 16); // красный
                         float G = (float)((pixel & 0x0000FF00) >> 8); // зеленый
                         float B = (float)(pixel & 0x000000FF); // синий
-                                                               // делаем цвет черно-белым (оттенки серого) - находим среднее арифметическое
-                        R = G = B = (R + G + B) / 3.0f;
+                        R = 255 - R; B = 255 - B; G = 255 - G;                                    
                         // собираем новый пиксель по частям (по каналам)
                         UInt32 newPixel = 0xFF000000 | ((UInt32)R << 16) | ((UInt32)G << 8) | ((UInt32)B);
                         // добавляем его в Bitmap нового изображения
